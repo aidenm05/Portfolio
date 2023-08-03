@@ -2,23 +2,23 @@ vCard - Personal Portfolio
 
 # sidebar
 
-alt = Richard hanrick
-Richard hanrick
-Web developer
+alt = Aiden McManus
+Aiden McManus
+Student / Maker
 
 Show Contacts
 
 Email
-richard@example.com
+Aidenpmcmanus@gmail.com
 
 Phone
-+1 (213) 352-2795
++1 (804) 357-6389
 
 Birthday
-June 23, 1982
+September 18th, 2005
 
 Location
-Sacramento, California, USA
+Richmond, Virginia USA
 
 # navbar
 
